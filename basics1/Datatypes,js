@@ -1,0 +1,19 @@
+// types of datatypes 
+/* primitive - they are stored in the stack memory.
+Number
+String
+Symbols- it is used for uniqueness
+BigInt
+null- standalone value/ it is an object, represents empty value. 
+undefined- if a variable is declared and no value is given then it is undefined.
+boolean- true or false.
+
+non primitive/ reference - they are stored in the heap memory.
+objects - key value pair
+functions
+array
+*/
+
+console.log(typeof null);
+console.log(typeof undefined);
+
